@@ -24,11 +24,6 @@
   <p align="center">📄 Know about my experiences <a href="YourExperienceLink">Just graduated from Northeast Petroleum University</a></p>
 </p>
 
-<p align="center">
-  <a href="YourLinkedInProfileLink">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="YourTwitterProfileLink">Twitter</a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
