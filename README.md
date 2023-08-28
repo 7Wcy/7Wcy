@@ -17,13 +17,18 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [KWin](https://invent.kde.org/plasma/kwin)
+<p align="center">
+  <p align="center">🔭 I’m currently working on <a href="https://invent.kde.org/plasma/kwin">KWin</a></p>
+  <p align="center">🌱 I’m currently learning <strong>Wayland\Linux\KWin\汇编\Qt</strong></p>
+  <p align="center">📫 How to reach me <a href="mailto:w2524180509@163.com">w2524180509@163.com</a></p>
+  <p align="center">📄 Know about my experiences <a href="YourExperienceLink">Just graduated from Northeast Petroleum University</a></p>
+</p>
 
-- 🌱 I’m currently learning **Wayland\Linux\KWin\汇编\Qt**
-
-- 📫 How to reach me **w2524180509@163.com**
-
-- 📄 Know about my experiences [Just graduated from Northeast Petroleum University](Just graduated from Northeast Petroleum University)
+<p align="center">
+  <a href="YourLinkedInProfileLink">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="YourTwitterProfileLink">Twitter</a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
