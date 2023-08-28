@@ -17,13 +17,13 @@
   </a>
 </p>
 
-🔭 I’m currently working on **KWin**
+- 🔭 I’m currently working on [KWin](https://invent.kde.org/plasma/kwin)
 
-🌱 I’m currently learning **Wayland\Linux\KWin\汇编\Qt**
+- 🌱 I’m currently learning **Wayland\Linux\KWin\汇编\Qt**
 
-📫 How to reach me: **w2524180509@163.com**
+- 📫 How to reach me **w2524180509@163.com**
 
-📄 Know about my experiences: **Just graduated from Northeast Petroleum University**
+- 📄 Know about my experiences [Just graduated from Northeast Petroleum University](Just graduated from Northeast Petroleum University)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
